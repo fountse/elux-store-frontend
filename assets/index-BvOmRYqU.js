@@ -1,0 +1,1 @@
+const e=(t,r="USD")=>new Intl.NumberFormat("en-US",{style:"currency",currency:r}).format(t),a=t=>t?(t.startsWith("http"),t):"https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=600&auto=format&fit=crop";export{e as f,a as g};
