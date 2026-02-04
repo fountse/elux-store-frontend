@@ -1,0 +1,1 @@
+import{d as o,g as t,b as n,k as s,o as r}from"./index-CfosiBGc.js";const c={class:"min-h-screen bg-white"},p=o({__name:"CheckoutLayout",setup(a){return(_,i)=>{const e=s("router-view");return r(),t("div",c,[n(e)])}}});export{p as default};
