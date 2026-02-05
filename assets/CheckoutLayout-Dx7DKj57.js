@@ -1,0 +1,1 @@
+import{d as o,i as t,b as n,p as s,g as r}from"./index-BRZcPDXQ.js";const a={class:"min-h-screen bg-page"},m=o({__name:"CheckoutLayout",setup(c){return(_,p)=>{const e=s("router-view");return r(),t("div",a,[n(e)])}}});export{m as default};
